@@ -1,0 +1,7 @@
+project_id             = "<your_project_id>"
+region                 = "us" # Using the "us" multi-region
+datastore_id           = "<your_datastore_id>" # Provide a unique ID for your data store
+datastore_display_name = "<your_datastore_display_name>"
+industry_vertical      = "GENERIC" # Choose the appropriate industry vertical
+agent_display_name     = "<your_agent_display_name>"
+agent_id               = "<your_agent_id>" # Provide a unique ID for your agent
