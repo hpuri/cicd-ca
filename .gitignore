@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Gemini-generated files
-.gemini
+.gemini.terraform
