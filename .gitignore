@@ -12,3 +12,4 @@ wheels/
 # Gemini-generated files
 .gemini
 .terraform
+terraform.tfstate
